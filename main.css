@@ -3,6 +3,7 @@ body {
 	color: red;
 	font-size: 18px;
 	padding: 1em 8em;
+	text-align: center;
 }
 
 header, main {
@@ -33,7 +34,7 @@ table {
 table td {
 	background-color: #dd0000;
 	border: 1px solid #000000;
-	color: #ffaa50;
+	color: white;
 	margin: 0;
 	padding: .5em;
 }
@@ -54,6 +55,7 @@ table tr {
 .favorite-thing {
 	background-color: #ffffff;
 	color: #000000;
+	text-align: center;
 	margin: 1.5em 0;
 	padding: 1em;
 }
